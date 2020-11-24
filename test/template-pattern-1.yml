@@ -1,0 +1,5 @@
+--- # meta
+product: item
+
+--- # message
+This product is {{ price }} yen.

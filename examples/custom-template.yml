@@ -1,0 +1,4 @@
+price: 100000
+
+--- # message
+This product is {{ price | locale }} yen.

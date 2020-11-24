@@ -1,0 +1,21 @@
+from: from@me.email
+bcc: bcc@me.email
+subject: Thank you for your message!
+
+--- # text
+
+Hi {{ user.name }},
+
+Thank you for your message.
+
+Best regards,
+{{ me }}
+
+--- # html
+
+Hi <b>{{ user.name }}<b>,
+
+Thank you for your message.
+
+Best regards,
+{{ me }}
