@@ -1,6 +1,3 @@
-from: from@me.email
-subject: Thank you for your message!
-
 --- # text
 
 Hi {{ user.name }},
@@ -16,3 +13,7 @@ Hi <b>{{ user.name }}<b>,
 Thank you for your message.
 
 Best regards,
+
+--- # meta
+from: from@me.email
+subject: Thank you for your message!

@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-in-yaml",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A YAML extension to use documents in YAML as Nunjucks templates.",
   "main": "lib/index.js",
   "dependencies": {
